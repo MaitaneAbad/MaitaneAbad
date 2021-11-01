@@ -1,9 +1,9 @@
-## Hi 👋, I'm Maitane Abad
-### A passionate frontend developer from Madrid
+<h1 align="center">Hi 👋, I'm Maitane Abad</h1>
+# A passionate frontend developer from Madrid
 
 <p align="right"> <a href="https://twitter.com/maitaneabad" target="blank"><img src="https://img.shields.io/twitter/follow/maitaneabad?logo=twitter&style=for-the-badge" alt="maitaneabad" /></a></p>
 
-### Sobre mi / About me
+## Sobre mi / About me
 
 Soy una persona que adora los retos y no se rinde fácilmente. Nunca dejo de formarme y aprender, además soy muy detallista en todo lo que hago.
 
@@ -18,7 +18,7 @@ After years of experience in the pharmaceutical sector, I have taken the decisio
 
 My main objective is to develop professionally and evolve in the IT sector, so I am looking for opportunities that will allow me to do so, while trying to fully align myself with the company's objectives.
 
-### Más datos sobre mi y en qué estoy trabajando / More about me and what I am working on
+## Más datos sobre mi y en qué estoy trabajando / More about me and what I am working on
 -----------------------------------------------------
 **🔭 Actualmente estoy trabajando en** [La wiki de Harry Potter](https://maitaneabad.github.io/the-wikipedia-of-harry-potter-and-fantasy-animals/#/)
 
@@ -41,7 +41,7 @@ My main objective is to develop professionally and evolve in the IT sector, so I
 **⚡ Fun fact I think I'm funny**
 
 
-### Conéctate conmigo / Connect with me:
+## Conéctate conmigo / Connect with me:
 
 📧 Cómo contactar conmigo  **Email** <maitaneabadconde@gmail.com>
 
