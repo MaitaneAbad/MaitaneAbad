@@ -7,14 +7,14 @@
 
 Soy una persona que adora los retos y no se rinde fácilmente. Nunca dejo de formarme y aprender, además soy muy detallista en todo lo que hago.
 
-Tras años de experiencia en el sector farmacéutico, he tomado la decisión de reorientar mi carrera profesional con el ánimo de continuar creciendo y evolucionando. Considero que el cambio es un signo de valentía y, por ello, creo que siempre sería capaz de aportar valor en la empresa en la que me encuentre.
+Tras años de experiencia en el sector farmacéutico, he tomado la decisión de reorientar mi carrera profesional para dedicarme a algo que me apasiona, el desarrollo web. Me encanta invertir esfuerzo y tiempo en evolucionar y aprender en mi ámbito profesional. Considero que el cambio es un signo de valentía y, por ello, creo que siempre sería capaz de aportar valor en el proyecto en el que me encuentre.
 
 Mi objetivo principal es desarrollarme profesionalmente y evolucionar en el sector IT, de modo que busco oportunidades que me permitan hacerlo, al tiempo que trataré de alinearme completamente con los objetivos de la empresa.
 
 ---------------------------------------------------
 I am a person who loves challenges and does not give up easily. I never stop training and learning, and I am very detailed in everything I do.
 
-After years of experience in the pharmaceutical sector, I have taken the decision to reorient my professional career with the aim of continuing to grow and evolve. I consider that change is a sign of courage and, therefore, I believe that I would always be able to add value to the company where I am.
+After years of experience in the pharmaceutical sector, I have taken the decision to redirect my professional career to focus on something I am passionate about, web development. I love to invest effort and time in evolving and learning in my professional field. I consider that change is a sign of courage and, therefore, I believe that I would always be able to add value to the project where I am working on.
 
 My main objective is to develop professionally and evolve in the IT sector, so I am looking for opportunities that will allow me to do so, while trying to fully align myself with the company's objectives.
 
