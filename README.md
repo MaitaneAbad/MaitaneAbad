@@ -62,10 +62,4 @@ My main objective is to develop professionally and evolve in the IT sector, so I
  # 🤗 Gracias por leerme / thanks for reading me 🤗
  
  
- 
- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maitaneabad&show_icons=true&locale=en&layout=compact" alt="maitaneabad" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maitaneabad&show_icons=true&locale=en" alt="maitaneabad" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maitaneabad&" alt="maitaneabad" /></p>
