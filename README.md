@@ -2,7 +2,9 @@
 ### A passionate frontend developer from Madrid
 
 <p align="right"> <a href="https://twitter.com/maitaneabad" target="blank"><img src="https://img.shields.io/twitter/follow/maitaneabad?logo=twitter&style=for-the-badge" alt="maitaneabad" /></a></p>
-#### Sobre mi / About me
+
+### Sobre mi / About me
+
 Soy una persona que adora los retos y no se rinde fácilmente. Nunca dejo de formarme y aprender, además soy muy detallista en todo lo que hago.
 
 Tras años de experiencia en el sector farmacéutico, he tomado la decisión de reorientar mi carrera profesional con el ánimo de continuar creciendo y evolucionando. Considero que el cambio es un signo de valentía y, por ello, creo que siempre sería capaz de aportar valor en la empresa en la que me encuentre.
