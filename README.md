@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maitane Abad</h1>
-# A passionate frontend developer from Madrid
+<h2>A passionate frontend developer from Madrid</h2>
 
 <p align="right"> <a href="https://twitter.com/maitaneabad" target="blank"><img src="https://img.shields.io/twitter/follow/maitaneabad?logo=twitter&style=for-the-badge" alt="maitaneabad" /></a></p>
 
