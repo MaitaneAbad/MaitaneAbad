@@ -18,8 +18,8 @@ After years of experience in the pharmaceutical sector, I have taken the decisio
 
 My main objective is to develop professionally and evolve in the IT sector, so I am looking for opportunities that will allow me to do so, while trying to fully align myself with the company's objectives.
 
-#### Más datos sobre mi y en qué estoy trabajando / More about me and what I am working on
-
+### Más datos sobre mi y en qué estoy trabajando / More about me and what I am working on
+-----------------------------------------------------
 **🔭 Actualmente estoy trabajando en** [La wiki de Harry Potter](https://maitaneabad.github.io/the-wikipedia-of-harry-potter-and-fantasy-animals/#/)
 
 **🌱Actualmente estoy aprendiendo Javascript con Udemy**.
@@ -41,7 +41,7 @@ My main objective is to develop professionally and evolve in the IT sector, so I
 **⚡ Fun fact I think I'm funny**
 
 
-#### Conéctate conmigo / Connect with me:
+### Conéctate conmigo / Connect with me:
 
 📧 Cómo contactar conmigo  **Email** <maitaneabadconde@gmail.com>
 
