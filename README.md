@@ -20,7 +20,7 @@ My main objective is to develop professionally and evolve in the IT sector, so I
 
 ## Más datos sobre mi y en qué estoy trabajando / More about me and what I am working on:
 
-**🔭 Actualmente estoy trabajando en** [La wiki de Harry Potter](https://maitaneabad.github.io/the-wikipedia-of-harry-potter-and-fantasy-animals/#/)
+**🔭 Actualmente estoy trabajando en** [La wiki de Harry Potter](https://maitaneabad.github.io/the-wikipedia-of-harry-potter-and-fantasy-animals/#/) **y** [Portfolio](https://maitaneabad.github.io/portfolio)
 
 **🌱Actualmente estoy aprendiendo Javascript con Udemy**.
 
@@ -30,7 +30,7 @@ My main objective is to develop professionally and evolve in the IT sector, so I
 
 **⚡ Dato curioso: creo que soy divertida**.
 ---------------------------------------------------
-**🔭 I’m currently working on** [The wiki of Harry Potter](https://maitaneabad.github.io/the-wikipedia-of-harry-potter-and-fantasy-animals/#/)
+**🔭 I’m currently working on** [The wiki of Harry Potter](https://maitaneabad.github.io/the-wikipedia-of-harry-potter-and-fantasy-animals/#/) **and** [Portfolio](https://maitaneabad.github.io/portfolio)
 
 **🌱I’m currently learning Javascript with Udemy**
 
