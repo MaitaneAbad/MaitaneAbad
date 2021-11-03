@@ -29,7 +29,9 @@ My main objective is to develop professionally and evolve in the IT sector, so I
 **💬 Pregúntame sobre React y maquetación**.
 
 **⚡ Dato curioso: creo que soy divertida**.
+
 ---------------------------------------------------
+
 **🔭 I’m currently working on** [The wiki of Harry Potter](https://maitaneabad.github.io/the-wikipedia-of-harry-potter-and-fantasy-animals/#/) **and** [Portfolio](https://maitaneabad.github.io/portfolio)
 
 **🌱I’m currently learning Javascript with Udemy**
