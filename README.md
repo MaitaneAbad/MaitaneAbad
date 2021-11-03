@@ -63,5 +63,3 @@ My main objective is to develop professionally and evolve in the IT sector, so I
 
  # 🤗 Gracias por leerme / thanks for reading me 🤗
  
- 
-
